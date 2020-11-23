@@ -47,6 +47,11 @@
             "type": "number",
             "format": "default",
             "decimalChar":","
+          },
+           {
+            "name": "data",
+            "type": "date",
+            "format": "default"
           }
         ]
       }
