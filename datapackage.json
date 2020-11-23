@@ -45,7 +45,8 @@
           {
             "name": "remuner",
             "type": "number",
-            "format": "default"
+            "format": "default",
+            "decimalChar":","
           }
         ]
       }
