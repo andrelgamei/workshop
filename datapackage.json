@@ -39,12 +39,12 @@
           },
           {
             "name": "carga_hora",
-            "type": "number",
+            "type": "integer",
             "format": "default"
           },
           {
             "name": "remuner",
-            "type": "integer",
+            "type": "number",
             "format": "default"
           }
         ]
